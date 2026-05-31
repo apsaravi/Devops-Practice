@@ -1,2 +1,3 @@
 Git Practice File
 there is a file new text I add
+This line added to txt file
